@@ -2,7 +2,7 @@
 hospital length of stay prediction using Random Forest
 This machine learning project aims to predict the hospital length of stay (LOS) for patients based on a variety of features such as patient demographics, medical conditions, admission type, insurance provider, and other relevant data. The model helps healthcare providers forecast patient stays for better resource allocation and planning. 
 
-   Project Structure
+   Project Structure:
 ML-LengthOfStay-Prediction/
 ├── Entri Final Project.ipynb        
 ├── README.md                        
@@ -12,7 +12,7 @@ ML-LengthOfStay-Prediction/
 ├── models/
 │   └── final_random_forest_model.pkl    
 
-   ML Pipeline
+   ML Pipeline:
 1.Data Collection
 2.Data Cleaning & Preprocessing
 3.Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ ML-LengthOfStay-Prediction/
 6.Model Evaluation
 7.Model Saving
 
-  Tech Stack / Tools Used
+  Tech Stack / Tools Used:
 Python
 Jupyter Notebook 
 Pandas, NumPy 
@@ -29,16 +29,16 @@ Matplotlib, Seaborn
 Scikit-learn
 Joblib 
 
-  Results
+  Results:
 Evaluation metrics used for this regression task:
 -Mean Squared Error (MSE)
 -R² Score (Coefficient of Determination)
 
-  How to Run the Project
+  How to Run the Project:
 1.Clone the Repository
 2.Install Dependencies
 3.Launch Jupyter Notebook
 4.Run All Cells
 
-  Authors
+  Authors:
 Theresa Dominic
